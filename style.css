@@ -1,0 +1,10 @@
+.container {
+  background-color: red;
+  height: 10%;
+  width: 10%;
+}
+
+.header {
+  color: white;
+  font-size: 30px;
+}
